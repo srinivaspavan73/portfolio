@@ -2,8 +2,7 @@
 # portfolio
 
 <center>
-    <img src="/public/cover.png
-    " alt="Reactfolio" />
+    <img src="/public/cover.png" alt="Reactfolio" />
 </center>
 
 <center>
@@ -12,7 +11,7 @@ Reference
 
 https://bitrapavankumar.netlify.app/
 
-<img  src="https://api.netlify.com/api/v1/badges/17df56e3-143c-484d-a3c3-e1fb35a734dd/deploy-status"  alt="Netlify Status"/>
+<img  src="/public/cover.png"  alt="Netlify Status"/>
 
 </center>
 
