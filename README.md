@@ -22,7 +22,7 @@ https://bitrapavankumar.netlify.app/
 ## Installation
 1. Clone the repository
     ```bash 
-    git clone https://github.com/dsbalico/dsfolio-v1.git](https://github.com/srinivaspavan73/portfolio.git
+    git clone https://github.com/srinivaspavan73/portfolio.git
     ```
 2. Change into the project directory
     ```bash
