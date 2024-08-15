@@ -7,11 +7,9 @@
 
 <center>
 
-Reference
+## Reference
 
 https://bitrapavankumar.netlify.app/
-
-<img  src="/public/cover.png"  alt="Netlify Status"/>
 
 </center>
 
