@@ -89,7 +89,7 @@ const info = {
 			title: "SecureAccess Advanced Multilayer Authentication",
 			description: "A cutting-edge authentication platform that enhances security through facial and gesture recognition technologies.",
 			technologies: "https://skillicons.dev/icons?i=react,opencv,flask,tensorflow&perline=5&theme=",
-			// github: "https://github.com/dsbalico/letter-digit-shape-classification",
+			github: "https://github.com/srinivaspavan73/Secure-Access",
             // link: "https://letterdigitshape-classification.netlify.app/"
 		},
 
