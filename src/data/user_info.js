@@ -113,8 +113,8 @@ const info = {
 			title: "WeaveQuest",
 			description: "A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.",
 			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=5&theme=",
-			github: "https://github.com/dsbalico/pcso-lotto-number-generator",
-            link: "https://66c72899b3f6bc08b32f6e8c--bitrapavankumar.netlify.app/"
+			github: "https://github.com/srinivaspavan73/Weaver-s-Loom",
+            link: "https://weavers-loom.netlify.app/"
 		},
     ],
 
