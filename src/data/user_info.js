@@ -8,7 +8,7 @@ const info = {
         tracking_id: "G-BNTTBGHXSC"
     },
     resume: {
-        link: "../Pavan_Kumar_Bitra_Resume.pdf" // Replace with your actual resume URL
+        link: "../Bitra_Pavan_Kumar_Resume.pdf" // Replace with your actual resume URL
       },
     
 
