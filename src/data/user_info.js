@@ -93,13 +93,14 @@ const info = {
             // link: "https://letterdigitshape-classification.netlify.app/"
 		},
 
-		{
-			title: "LandLink",
-			description: "Revolutionizing land transactions with an online marketplace for buying and selling land properties across all states seamlessly.",
-			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=10&theme=",
-			github: "https://github.com/srinivaspavan73/Landlink",
-            // link: "https://thechatroom.netlify.app/"
-		},
+{
+    title: "CampusHub",
+    description: "A web application that allows users to log in, browse and register for events, and collaborate on campus projects.",
+    technologies: "https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript&perline=10&theme=",
+    github: "https://github.com/srinivaspavan73/campus-hub-main-cloud",
+    link: "https://campus-hub-main-cloud.vercel.app/"
+},
+
 
 		// {
 		// 	title: "Sudoku Solver",
