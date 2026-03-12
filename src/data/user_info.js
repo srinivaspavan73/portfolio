@@ -21,11 +21,17 @@ const info = {
         telegram: "https://telegram.me/srinivaspavan73"
     },
     experience: [
+                {
+            company: "Cognizant",
+            role: "Program Analyst Trainee",
+            // description: "Designed and developed two responsive, dynamic websites using React.js and Bootstrap. Implemented interactive features and user-centric designs, leading to a 30% increase in user traffic and improved engagement. Enhanced site performance, achieving faster load times by 20% through optimized code and responsive design practices.",
+            period: "Jan 2026- Present"
+        },
         {
             company: "Innovarsity",
-            role: "",
+            role: "Web Developer Intern",
             description: "Designed and developed two responsive, dynamic websites using React.js and Bootstrap. Implemented interactive features and user-centric designs, leading to a 30% increase in user traffic and improved engagement. Enhanced site performance, achieving faster load times by 20% through optimized code and responsive design practices.",
-            period: "July 2024- Present"
+            period: "July 2024- Jan 2025"
         },
         {
             company: "GoPrac Private Limited",
@@ -42,24 +48,24 @@ const info = {
             period: "November 2023- December 2023"
         },
         
-        {
-            company: "EduSkills",
-            role: "AWS Clould Intern",
-            description: "Engaged in a cloud computing internship using AWS, mastering the deployment, scaling, and management of cloud applications. Gained expertise in AWS services like EC2, S3, and RDS, applying best practices in cloud architecture and security to simulated business environments.",
-            period: "Sepetember 2023 - November 2023"
-        },
-        {
-            company: "EduSkills",
-            role: "AWS Cloud Intern",
-            description: "Advanced my skills in AWS Cloud technologies through a comprehensive virtual internship, focusing on developing scalable cloud solutions using Lambda, DynamoDB, and Elastic Beanstalk. Managed projects that emphasized workflow automation and robust security, enhancing cloud infrastructure resiliency.",
-            period: "June 2023 - November 2023"
-        },                
-        {
-            company: "EduSkills",
-            role: "Data Analyst Inten",
-            description: "Leveraged AWS technologies in a virtual data analytics internship, analyzing large datasets to drive insights and improve decision-making. Utilized machine learning models and AWS QuickSight for effective data visualization and reporting in collaborative projects.",
-            period: "May 2023 - July 2023"
-        },        
+        // {
+        //     company: "EduSkills",
+        //     role: "AWS Clould Intern",
+        //     description: "Engaged in a cloud computing internship using AWS, mastering the deployment, scaling, and management of cloud applications. Gained expertise in AWS services like EC2, S3, and RDS, applying best practices in cloud architecture and security to simulated business environments.",
+        //     period: "Sepetember 2023 - November 2023"
+        // },
+        // {
+        //     company: "EduSkills",
+        //     role: "AWS Cloud Intern",
+        //     description: "Advanced my skills in AWS Cloud technologies through a comprehensive virtual internship, focusing on developing scalable cloud solutions using Lambda, DynamoDB, and Elastic Beanstalk. Managed projects that emphasized workflow automation and robust security, enhancing cloud infrastructure resiliency.",
+        //     period: "June 2023 - November 2023"
+        // },                
+        // {
+        //     company: "EduSkills",
+        //     role: "Data Analyst Inten",
+        //     description: "Leveraged AWS technologies in a virtual data analytics internship, analyzing large datasets to drive insights and improve decision-making. Utilized machine learning models and AWS QuickSight for effective data visualization and reporting in collaborative projects.",
+        //     period: "May 2023 - July 2023"
+        // },        
         {
             company: "YHills Edutech Private Limited",
             role: "Python Developer Intern",
