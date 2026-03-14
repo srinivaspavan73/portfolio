@@ -18,7 +18,8 @@ const info = {
 		linkedin: "https://www.linkedin.com/in/bitrapavankumar",
 		instagram: "https://instagram.com/srinivaspavan73",
 		facebook: "https://www.facebook.com/bitra.pavan.351",
-        telegram: "https://telegram.me/srinivaspavan73"
+        telegram: "https://telegram.me/srinivaspavan73",
+        Mobile: "+91 8555866173",
     },
     experience: [
                 {

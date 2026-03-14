@@ -200,6 +200,7 @@
 // import GitHubButton from 'react-github-btn'
 // import { IoIosArrowForward } from "react-icons/io";
 // import ExperienceItem from '../components/ExperienceItem';
+import { FaMobile } from "react-icons/fa";
 
 
 // function Homepage() {
@@ -555,6 +556,11 @@ function Homepage() {
                                 <FaTelegramPlane className="text-xl flex-shrink-0 group-hover:scale-110 transition-transform duration-300" />
                                 <span className="font-medium">Telegram</span>
                             </a>
+                            <h href={user_info.socials.Mobile} className="group flex items-center gap-4 p-4 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-blue-900/20 hover:border-blue-500 dark:hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900">
+                                <FaMobile className="text-xl flex-shrink-0 group-hover:scale-110 transition-transform duration-300" />
+                                <span className="font-medium">8555866173</span>
+                            </h>
+
                         </div>
 
                         <div className="w-full h-px bg-gradient-to-r from-transparent via-gray-300 dark:via-gray-700 to-transparent mb-10"></div>
